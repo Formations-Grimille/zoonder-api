@@ -9,8 +9,18 @@ dotenv.config();
 
 app.use(express.json());
 app.use(express.static('public'));
+
 app.get('/api/profiles', (req, res) => {
     return res.json(database);
+});
+
+app.get('/api/profiles/random', (req, res) => {
+    const min = 0;
+    const max = database.length;
+    const random = Math.floor(Math.random() * (max - min + 1) + min); 
+    const profile = getProfileById(random);
+
+    return res.json(profile);
 });
 
 app.post('/api/match', (req, res) => {
