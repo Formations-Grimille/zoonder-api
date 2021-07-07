@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "firstname": "Père Castor",
+        "age": 21,
+        "picture": "/zoo/pics/beaver.jpeg",
+        "description": "Raconte-moi une histoire. 🦫",
+        "searchFor": "Relation sérieuse",
+        "gender": "male"
+    },
+    {
+        "id": 2,
+        "firstname": "Bugs bunny",
+        "age": 51,
+        "picture": "/zoo/pics/bunny.png",
+        "description": "Euh ? Quoi d'neuf docteur ? 🥕",
+        "searchFor": "On verra bien",
+        "gender": "male"
+    },    
+    {
+        "id": 3,
+        "firstname": "Tichat",
+        "age": 19,
+        "picture": "/zoo/pics/cat.png",
+        "description": "Je suis super mignon non ?",
+        "searchFor": "Relation sérieuse",
+        "gender": "male"
+    },
+    {
+        "id": 4,
+        "firstname": "Magalie",
+        "age": 21,
+        "picture": "/zoo/pics/cow.png",
+        "description": "C'est pas un strabisme, je suis juste une vache... 🐮",
+        "searchFor": "Relation sérieuse",
+        "gender": "female"
+    },
+    {
+        "id": 5,
+        "firstname": "Doug",
+        "age": 18,
+        "picture": "/zoo/pics/doggy.jpeg",
+        "description": "Posé sur mon yacht. Surprends-moi et peut-être que tu seras invitée. #RicheAMillions 🌞🕶 ",
+        "searchFor": "Rien de bien sérieux",
+        "gender": "male"
+    }, 
+    {
+        "id": 6,
+        "firstname": "Princess",
+        "age": 21,
+        "picture": "/zoo/pics/doggy2.jpeg",
+        "description": "Ça se prononce ‘Pri'n-cess’ comme en anglais, merci. 🙄",
+        "searchFor": "Relation amoureuse",
+        "gender": "female"
+    },
+    {
+        "id": 7,
+        "firstname": "Jason",
+        "age": 24,
+        "picture": "/zoo/pics/doggy3.jpeg",
+        "description": "J'ai soif d'aventure, mais là j'ai juste la flemme. 😪",
+        "searchFor": "On verra bien",
+        "gender": "male"
+    },
+    {
+        "id": 8,
+        "firstname": "Mr Tinkles",
+        "age": 24,
+        "picture": "/zoo/pics/doggy4.jpeg",
+        "description": "L'Homme est un animal domestique, c'est pourquoi il est à ce point corrompu. 📚",
+        "searchFor": "Relation amoureuse",
+        "gender": "female"
+    },
+    {
+        "id": 9,
+        "firstname": "Donald Junior",
+        "age": 18,
+        "picture": "/zoo/pics/ducky.jpeg",
+        "description": "Mon grand-père, c'était Donald Duck !",
+        "searchFor": "On verra bien",
+        "gender": "male"
+    },
+    {
+        "id": 10,
+        "firstname": "Roucky",
+        "age": 34,
+        "picture": "/zoo/pics/foxy.png",
+        "description": "What does the fox says ?!",
+        "searchFor": "On verra bien",
+        "gender": "male"
+    },
+    {
+        "id": 11,
+        "firstname": "Goat",
+        "age": 52,
+        "picture": "/zoo/pics/goat.jpeg",
+        "description": "Chèvre sauvage à louer, tonte de gazon comprise.",
+        "searchFor": "Rien de bien sérieux",
+        "gender": "female"
+    },
+    {
+        "id": 12,
+        "firstname": "Arty",
+        "age": 23,
+        "picture": "/zoo/pics/guineapig.png",
+        "description": "Couic, couic, couic ? 🐹",
+        "searchFor": "Rien de bien sérieux",
+        "gender": "male"
+    },
+    {
+        "id": 13,
+        "firstname": "Petit Tonnerre",
+        "age": 26,
+        "picture": "/zoo/pics/horse.jpeg",
+        "description": "Pitié, j'en peux plus de ces noms de poneys à coucher dehors !",
+        "searchFor": "Rien de bien sérieux",
+        "gender": "male"
+    },
+    {
+        "id": 14,
+        "firstname": "パンダ (kumaneko)",
+        "age": 32,
+        "picture": "/zoo/pics/panda.jpeg",
+        "description": "J'aime bien les animés et le Japon. 🇯🇵",
+        "searchFor": "Relation amoureuse",
+        "gender": "female"
+    },
+    {
+        "id": 15,
+        "firstname": "Shin Shin",
+        "age": 18,
+        "picture": "/zoo/pics/panda1.jpeg",
+        "description": "Nyaaaaaaaan !",
+        "searchFor": "Relation amoureuse",
+        "gender": "female"
+    },
+    {
+        "id": 16,
+        "firstname": "Peggy",
+        "age": 29,
+        "picture": "/zoo/pics/piggy.jpeg",
+        "description": "Cherche partenaire pour la nouït ! 🐽🐷",
+        "searchFor": "Rien de bien sérieux",
+        "gender": "female"
+    },
+    {
+        "id": 17,
+        "firstname": "Jester",
+        "age": 21,
+        "picture": "/zoo/pics/racoon.jpeg",
+        "description": "Si tu acceptes pas mon best friend, passe ton chemin. Mon poto, c'est pour la vie. #ToujoursEnsemble 🐶🦝",
+        "searchFor": "Relation Amoureuse",
+        "gender": "male"
+    },
+    {
+        "id": 18,
+        "firstname": "Fok",
+        "age": 41,
+        "picture": "/zoo/pics/seal.jpeg",
+        "description": "L'intérieur, ça compte aussi, c'est réel !",
+        "searchFor": "Relation Amoureuse",
+        "gender": "male"
+    },
+    {
+        "id": 19,
+        "firstname": "Scratch",
+        "age": 38,
+        "picture": "/zoo/pics/squirrel.jpeg",
+        "description": "J'aime les fleurs et la nature. 🐿🌱",
+        "searchFor": "Relation Amoureuse",
+        "gender": "male"
+    },
+    {
+        "id": 20,
+        "firstname": "Plik",
+        "age": 27,
+        "picture": "/zoo/pics/squirrel1.png",
+        "description": "Besoin de nature après le code. 🐿🍁",
+        "searchFor": "On verra bien",
+        "gender": "male"
+    },
+    {
+        "id": 21,
+        "firstname": "Bianca Senior",
+        "age": 984,
+        "picture": "/zoo/pics/turtle.jpeg",
+        "description": "Si mon âge de rebute, passe ton chemin. 🐢",
+        "searchFor": "On verra bien",
+        "gender": "female"
+    },
+    {
+        "id": 22,
+        "firstname": "Bianca Junior",
+        "age": 26,
+        "picture": "/zoo/pics/turtle1.jpeg",
+        "description": "Ma mamie m'a conseillée cette app. 🐢",
+        "searchFor": "On verra bien",
+        "gender": "female"
+    },
+    {
+        "id": 23,
+        "firstname": "Gri",
+        "age": 27,
+        "picture": "/zoo/pics/wolf.jpeg",
+        "description": "I'm not a boss. I'm a leader. 🐺 #ChercheLouve #SerieuxOnly",
+        "searchFor": "Relation amoureuse",
+        "gender": "male"
+    },
+    {
+        "id": 24,
+        "firstname": "Fae",
+        "age": 24,
+        "picture": "/zoo/pics/wolf2.jpeg",
+        "description": "J'ai trouvé mon loup. Comme quoi cette appli marche vraiment ! 🐺 #FriendsOnly",
+        "searchFor": "Relation amicale",
+        "gender": "female"
+    },
+    {
+        "id": 25,
+        "firstname": "Sonic",
+        "age": 39,
+        "picture": "/zoo/pics/hedgehog.jpeg",
+        "description": "J'te jure, je peux aller aussi vite que le vrai Sonic !",
+        "searchFor": "Rien de bien sérieux",
+        "gender": "male"
+    }
+]
