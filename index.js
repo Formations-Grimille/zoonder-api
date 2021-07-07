@@ -42,6 +42,22 @@ app.post('/api/match', (req, res) => {
     const data = {match, profile};
 
     return res.json(data);
+});
+
+app.post('/auth/login', (req, res) => {
+    const username = req.body.username;
+    const password = req.body.password;
+    
+    if(username === "admin@zoonder.fr" && password === "admin") {// Testing purpose obviously
+        return res.json({
+            success: true,
+            message: "Vous êtes maintenant connectés à Zoonder ! Happy Matching !",
+        })
+    }
+    return res.json({
+        success: false,
+        message: "Identifiant ou mot de passe incorrect."
+    });
 }),
 
 app.listen(3009, function() {
