@@ -27,6 +27,14 @@ app.get('/api/profiles/random', (req, res) => {
     return res.json(profile);
 });
 
+app.get('/api/crushs', (req, res) => {
+    const min = 0;
+    const max = 5;
+    const random = Math.floor(Math.random() * (max - min + 1) + min);
+    return res.json({crushs: random});
+});
+
+
 app.post('/api/match', (req, res) => {
     const id = req.body.id;
     const match = Math.random() < 0.16;
