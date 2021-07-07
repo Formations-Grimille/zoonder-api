@@ -22,8 +22,8 @@ app.post('/api/match', (req, res) => {
     return res.json(data);
 }),
 
-app.listen(3000, function() {
-    console.log("Listening on port 3000");
+app.listen(3009, function() {
+    console.log("Listening on port 3009");
 });
 
 function readDatabase() {
