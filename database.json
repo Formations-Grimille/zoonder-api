@@ -85,7 +85,7 @@
         "firstname": "Roucky",
         "age": 34,
         "picture": "/zoo/pics/foxy.png",
-        "description": "What does the fox says ?!",
+        "description": "What does the fox say ?!",
         "searchFor": "On verra bien",
         "gender": "male"
     },
@@ -184,7 +184,7 @@
         "firstname": "Bianca Senior",
         "age": 984,
         "picture": "/zoo/pics/turtle.jpeg",
-        "description": "Si mon âge de rebute, passe ton chemin. 🐢",
+        "description": "Si mon âge te rebute, passe ton chemin. 🐢",
         "searchFor": "On verra bien",
         "gender": "female"
     },
@@ -193,7 +193,7 @@
         "firstname": "Bianca Junior",
         "age": 26,
         "picture": "/zoo/pics/turtle1.jpeg",
-        "description": "Ma mamie m'a conseillée cette app. 🐢",
+        "description": "Ma mamie m'a conseillé cette app. 🐢",
         "searchFor": "On verra bien",
         "gender": "female"
     },
