@@ -22,7 +22,7 @@ app.get('/api/profiles/random', (req, res) => {
     const min = 0;
     const max = database.length;
     const random = Math.floor(Math.random() * (max - min + 1) + min); 
-    const profile = getProfileById(random);
+    const profile = getProfileById(random + 1);
 
     return res.json(profile);
 });
