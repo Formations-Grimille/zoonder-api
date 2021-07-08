@@ -20,9 +20,13 @@ app.get('/api/profiles', (req, res) => {
 
 app.get('/api/profiles/random', (req, res) => {
     const min = 0;
-    const max = database.length;
+    const max = database.length - 1;
     const random = Math.floor(Math.random() * (max - min + 1) + min); 
     const profile = getProfileById(random + 1);
+
+    console.log('max', max);
+    console.log('random', random);
+    console.log('profile', profile);
 
     return res.json(profile);
 });
