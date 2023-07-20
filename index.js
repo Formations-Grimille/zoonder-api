@@ -5,6 +5,7 @@ const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
 const dotenv = require('dotenv');
+const faker = require("@faker-js/faker");
 const database = readDatabase();
 
 dotenv.config();
@@ -48,10 +49,15 @@ app.post('/auth/login', (req, res) => {
     const username = req.body.username;
     const password = req.body.password;
     
-    if(username === "admin@zoonder.fr" && password === "admin") {// Testing purpose obviously
+    if(password === "zoonder") {// Testing purpose obviously
         return res.json({
-            success: true,
-            message: "Vous êtes maintenant connectés à Zoonder ! Happy Matching !",
+            username,
+            firstname: faker.faker.person.firstName(),
+            lastname: faker.faker.person.lastName(),
+            bio: faker.faker.person.bio(),
+            sex: faker.faker.person.sex(),
+            email: faker.faker.internet.email(),
+            createdAt: faker.faker.date.recent()
         })
     }
     return res.json({
