@@ -199,11 +199,11 @@
     },
     {
         "id": 23,
-        "firstname": "Gri",
-        "age": 27,
+        "firstname": "Grimille",
+        "age": 29,
         "picture": "/zoo/pics/wolf.jpeg",
-        "description": "I'm not a boss. I'm a leader. 🐺 #ChercheLouve #SerieuxOnly",
-        "searchFor": "Relation amoureuse",
+        "description": "Leading the pack. 🐺 Abandonne ton costume de mouton. Rejoins La Meute !",
+        "searchFor": "Relation amicale",
         "gender": "male"
     },
     {
@@ -222,6 +222,87 @@
         "picture": "/zoo/pics/hedgehog.jpeg",
         "description": "J'te jure, je peux aller aussi vite que le vrai Sonic !",
         "searchFor": "Rien de bien sérieux",
+        "gender": "male"
+    },
+    {
+        "id": 26,
+        "firstname": "Eren",
+        "age": 1,
+        "picture": "/zoo/pics/doggy5.jpg",
+        "description": "Je bouffe tes meubles, mais je suis trognon ! Oui, mon nom est une référence à SNK.",
+        "searchFor": "On verra bien",
+        "gender": "male"
+    },
+    {
+        "id": 27,
+        "firstname": "Sirius",
+        "age": 1,
+        "picture": "/zoo/pics/doggy6.jpg",
+        "description": "Gneu-gneu \"j'ai tué Sirius Black !\" Ha. Ha. Ha. 😐",
+        "searchFor": "On verra bien",
+        "gender": "male"
+    },
+    {
+        "id": 28,
+        "firstname": "Plume",
+        "age": 1,
+        "picture": "/zoo/pics/cat2.jpg",
+        "description": "Je m'appelle Plume, mais tu peux aussi m'appeler Plu-plume. Dans la vie, je dors avec ma sœur Jinx !",
+        "searchFor": "Relation amicale",
+        "gender": "female"
+    },
+    {
+        "id": 29,
+        "firstname": "Jinx",
+        "age": 1,
+        "picture": "/zoo/pics/cat3.jpg",
+        "description": "Si tu n'aimes pas les chattes à caractère, dégage ! Ksss-ksss ! ",
+        "searchFor": "Relation amoureuse",
+        "gender": "female"
+    },
+    {
+        "id": 30,
+        "firstname": "Loki",
+        "age": 2,
+        "picture": "/zoo/pics/rabbit.jpg",
+        "description": "Si je ne bouge plus comme ça, on va peut-être croire que je suis une statue en bois ? J'ai plus mes testiboules, cherche juste des potes... ",
+        "searchFor": "Relation amicale",
+        "gender": "male"
+    },
+    {
+        "id": 31,
+        "firstname": "Crowley",
+        "age": 10,
+        "picture": "/zoo/pics/turtle2.jpg",
+        "description": "Tortue Ninja - Tortue Ninja ! TORTUE NINJA - TORTUE NINJA !! KOWABUNGA !! LE CRI DES NINJAS !!",
+        "searchFor": "Relation amoureuse",
+        "gender": "female"
+    },
+    {
+        "id": 32,
+        "firstname": "Nextasi",
+        "age": 38,
+        "picture": "/zoo/pics/gibbon.webp",
+        "description": "A-OUAAAH ! AAAA-OUAAAAH ! Rejoins la gibbonnerie, un gibbon, une connerie ! 🐒",
+        "searchFor": "Relation amoureuse",
+        "gender": "male"
+    },
+    {
+        "id": 33,
+        "firstname": "Kamey",
+        "age": 24,
+        "picture": "/zoo/pics/lemurien.jpg",
+        "description": "J'vends des bâtons de la mort, ça t'intéresse ?",
+        "searchFor": "Relation amicale",
+        "gender": "male"
+    },
+    {
+        "id": 34,
+        "firstname": "Pohr Neubadikt",
+        "age": 22,
+        "picture": "/zoo/pics/mouse.jpg",
+        "description": "Ça pourrait être toi & moi en train de s'envoyer en l'air ^^",
+        "searchFor": "On verra bien",
         "gender": "male"
     }
 ]
